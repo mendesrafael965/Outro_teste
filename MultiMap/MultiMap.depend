@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1542737693 source:c:\users\jaqueline\desktop\multimap\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<iterator>
+	"Dicionario.h"
+	<vector>
+	<fstream>
+	<cstdlib>
+	<cctype>
+
+1542494505 source:c:\users\jaqueline\desktop\multimap\src\dicionario.cpp
+	"Dicionario.h"
+	<map>
+	<string>
+	<iterator>
+	<vector>
+
+1542494275 c:\users\jaqueline\desktop\multimap\include\dicionario.h
+	<map>
+	<string>
+	<iterator>
+	<vector>
+
+1542494505 source:c:\users\jaqueline\desktop\pds 2\multimap\src\dicionario.cpp
+	"Dicionario.h"
+	<map>
+	<string>
+	<iterator>
+	<vector>
+
+1542753029 c:\users\jaqueline\desktop\pds 2\multimap\include\dicionario.h
+	<map>
+	<string>
+	<iterator>
+	<vector>
+
+1542822595 source:c:\users\jaqueline\desktop\pds 2\multimap\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<iterator>
+	"Dicionario.h"
+	<vector>
+	<fstream>
+	<cstdlib>
+	<cctype>
+
+1542494505 source:c:\users\jaqueline\desktop\outro_teste\multimap\src\dicionario.cpp
+	"Dicionario.h"
+	<map>
+	<string>
+	<iterator>
+	<vector>
+
+1542753029 c:\users\jaqueline\desktop\outro_teste\multimap\include\dicionario.h
+	<map>
+	<string>
+	<iterator>
+	<vector>
+
